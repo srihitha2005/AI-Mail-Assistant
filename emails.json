@@ -1,0 +1,172 @@
+[
+    {
+        "id": 10336,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Query on Best Practices for Upcoming Marketing Campaign",
+        "body": "I\u2019m exploring ways to optimize our upcoming marketing campaign and have a few queries regarding best practices. Your insights would be invaluable, and I\u2019d appreciate any guidance when you have time.",
+        "date_received": "2025-09-06T13:37:25+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Not urgent",
+        "sentiment": "Neutral",
+        "ai_label": "Marketing Campaign Optimization",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Query on Best Practices for Upcoming Marketing Campaign\n\nDear [Sender Name],\n\nThank you for your email and your interest in optimizing your marketing campaign.  I will be happy to provide guidance on best practices when I have some time available. Please let me know if there are any specific areas you'd like to focus on, and I'll prioritize those.\n\nSincerely,\n\n[Your Name]"
+    },
+    {
+        "id": 10335,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Support Required ASAP for Client Presentation Tomorrow",
+        "body": "I need your urgent support to finalize materials for tomorrow\u2019s client presentation. Any assistance in reviewing the slides and confirming data accuracy would be highly appreciated.",
+        "date_received": "2025-09-06T13:37:03+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Urgent",
+        "sentiment": "Negative",
+        "ai_label": "Client Presentation Support",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Support Required ASAP for Client Presentation Tomorrow\n\nDear [Sender Name],\n\nI understand this is urgent and apologize for the short notice. I'm reviewing the presentation materials and data immediately.  I will contact you within [Timeframe, e.g., the next hour] with feedback.\n\nSincerely,\n\n[Your Name]"
+    },
+    {
+        "id": 10334,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Help Needed to Celebrate Team Success in Upcoming Event",
+        "body": "We\u2019d love your help in organizing a small celebration for the team\u2019s recent success. Your guidance on logistics or any support you can provide would make the event even better.",
+        "date_received": "2025-09-06T13:36:44+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Not urgent",
+        "sentiment": "Positive",
+        "ai_label": "Team Celebration",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Help Needed to Celebrate Team Success in Upcoming Event\n\nHi [Sender Name],\n\nThank you for reaching out!  We're thrilled to help celebrate the team's success.  Please let us know what kind of support you need, and we'll do our best to assist.\n\nBest regards,\n\n[Your Name]"
+    },
+    {
+        "id": 10333,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Request to Escalate Complaint Regarding Delayed Shipment",
+        "body": "I\u2019m following up on a delayed shipment issue that has impacted our schedule. I request immediate escalation so that the matter can be resolved as soon as possible. Please let me know how you plan to address this.",
+        "date_received": "2025-09-06T13:36:10+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Urgent",
+        "sentiment": "Negative",
+        "ai_label": "Delayed Shipment Escalation",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Request to Escalate Complaint Regarding Delayed Shipment\n\nDear [Customer Name],\n\nThank you for contacting us regarding the delay of your shipment.  I sincerely apologize for the inconvenience this has caused and understand the impact it's having on your schedule.  I am looking into this immediately and will provide an update within [ timeframe, e.g.,  one hour/ the next business day].\n\nSincerely,\n\n[Your Name/Company Name]"
+    },
+    {
+        "id": 10332,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Query on Approval: Excited to Start New Project Initiative",
+        "body": "I have a query regarding the approval process for the new project initiative. I\u2019m excited to get started and want to ensure all requirements are completed correctly. Could you guide me on the next steps?",
+        "date_received": "2025-09-06T13:35:48+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Not urgent",
+        "sentiment": "Positive",
+        "ai_label": "Project Approval Query",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Query on Approval: Excited to Start New Project Initiative\n\nHi [Sender Name],\n\nThanks for your email and your enthusiasm for the new project!  I'm happy to help guide you through the approval process.\n\nPlease provide me with [mention specific information needed, e.g., the project proposal number, or a list of completed requirements].  Once I have this, I can outline the next steps.\n\nBest regards,\n\n[Your Name]"
+    },
+    {
+        "id": 10331,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Support Needed: Minor Glitches in Reporting Dashboard",
+        "body": "I\u2019ve noticed a few minor glitches in the reporting dashboard that are affecting certain data visualizations. While it\u2019s not urgent, support to resolve these issues at your earliest convenience would be appreciated.",
+        "date_received": "2025-09-06T13:35:28+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Not urgent",
+        "sentiment": "Negative",
+        "ai_label": "Minor Glitches in Reporting Dashboard",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Support Needed: Minor Glitches in Reporting Dashboard\n\nDear [User Name],\n\nThank you for reaching out and reporting the minor glitches in the reporting dashboard.  We apologize for any inconvenience this may be causing. We will investigate these issues and aim to resolve them as soon as possible.\n\nSincerely,\n\n[Your Name/Team Name]"
+    },
+    {
+        "id": 10330,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Immediate Help Required: System Outage Affecting Operations",
+        "body": "We are currently experiencing a system outage that is affecting critical operations. Immediate assistance is required to restore services and minimize disruption. Please prioritize this issue and advise on the next steps.",
+        "date_received": "2025-09-06T13:35:04+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Urgent",
+        "sentiment": "Negative",
+        "ai_label": "System Outage",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Immediate Help Required: System Outage Affecting Operations\n\nDear [Sender Name],\n\nI understand you're experiencing a critical system outage impacting your operations, and I sincerely apologize for the disruption this is causing.  We are looking into this immediately and will provide an update and next steps as soon as possible.\n\nSincerely,\n\n[Your Name]"
+    },
+    {
+        "id": 10329,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Request for Additional Resources to Enhance Team Productivity",
+        "body": "I hope you\u2019re doing well. I would like to request additional resources for our team to improve productivity on the ongoing project. Even small support, such as access to [specific tool/resource], would be greatly beneficial. Thanks in advance for considering this request.",
+        "date_received": "2025-09-06T13:34:45+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Not urgent",
+        "sentiment": "Neutral",
+        "ai_label": "Resource Request",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Request for Additional Resources to Enhance Team Productivity\n\nDear [Sender Name],\n\nThank you for your email and request for additional resources.  I will review your request for access to [specific tool/resource] and will get back to you within [ timeframe, e.g., 2 business days] with an update.\n\nSincerely,\n\n[Your Name]"
+    },
+    {
+        "id": 10328,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Urgent Query Regarding Invoice Discrepancy #4521",
+        "body": "I noticed a discrepancy in Invoice #4521 and would appreciate your urgent clarification. Could you please review the details and advise on the correct amounts? Thank you for your prompt attention to this matter.",
+        "date_received": "2025-09-06T13:34:20+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Urgent",
+        "sentiment": "Neutral",
+        "ai_label": "Invoice Discrepancy",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Urgent Query Regarding Invoice Discrepancy #4521\n\nDear [Sender Name],\n\nThank you for contacting us regarding invoice #4521. I am looking into this discrepancy immediately and will provide clarification shortly.\n\nSincerely,\n\n[Your Name/Company Name]"
+    },
+    {
+        "id": 10327,
+        "sender_email": "cs22b2009@iiitdm.ac.in",
+        "subject": "Appreciation for Outstanding Customer Support Last Week",
+        "body": "I just wanted to take a moment to thank you and your team for the excellent support provided last week. Your guidance made a complex process much smoother, and I truly appreciate the prompt responses and helpful solutions. Keep up the fantastic work!",
+        "date_received": "2025-09-06T13:33:22+05:30",
+        "status": "pending",
+        "is_read": false,
+        "priority": "Not urgent",
+        "sentiment": "Positive",
+        "ai_label": "Customer Support Appreciation",
+        "extracted_info": {
+            "contact_details": null,
+            "request": "A generic request for now."
+        },
+        "llm_response": "Subject: Re: Appreciation for Outstanding Customer Support Last Week\n\nDear [Customer Name],\n\nThank you for your kind words! We're thrilled to hear that our support team was able to assist you and make the process smoother.  We appreciate your feedback and are glad we could be of help.\n\nSincerely,\n\n[Your Name/Team Name]"
+    }
+]
